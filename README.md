@@ -1,1 +1,2 @@
 # kemoi
+blacklisted: Astrid ❤
