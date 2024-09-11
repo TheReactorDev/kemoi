@@ -56,6 +56,19 @@ main {
   color:rgb(255,255,255);
 }
 
+.bordr {
+  margin: 1rem;
+  padding: 1.5rem;
+  text-align: center;
+  color: inherit;
+  background-color:rgb(30,30,30);
+  text-decoration: none;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  transition: 0.15s ease;
+  max-width: 400px;
+}
+
 .grid {
   display: flex;
   align-items: center;
@@ -67,7 +80,7 @@ main {
 .card {
   margin: 1rem;
   padding: 1.5rem;
-  text-align: left;
+  text-align: center;
   color: inherit;
   background-color:rgb(30,30,30);
   text-decoration: none;
