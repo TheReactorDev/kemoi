@@ -110,6 +110,13 @@ main {
   color:rgb(255,255,255);
 }
 
+.bordr p {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  color:rgb(255,255,255);
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
